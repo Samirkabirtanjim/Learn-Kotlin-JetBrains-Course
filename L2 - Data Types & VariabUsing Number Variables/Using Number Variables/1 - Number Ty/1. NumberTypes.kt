@@ -25,5 +25,5 @@ fun main() {
 
     // Double: 64-bit decimal, more precision (default for decimals)
     val doubleNum: Double = 6.0 / 13.0
-    println("Double value: $doubleNum") // Precision: 15-16 digits
+    println("Double value: $doubleNum") // Precision: 15-16 digit
 }
