@@ -1,3 +1,15 @@
+// Learn Kotlin - Lesson: Augmented Assignment Operators
+// Objective:
+// Use augmented assignment operators to fix values of variables.
+
+// Instructions:
+// speedOfLight: add 282 and reassign the new value
+// perfectSquare: multiply by 2 and reassign the new value
+// sheldonsFavoriteNum: divide by 3 and reassign the new value
+// emergency: subtract 9 and reassign the new value
+// firstCountingNum: use modulo to divide by 5 and reassign the remainder
+
+
 fun main() {
   var speedOfLight = 186_000
   // Write your code here 
