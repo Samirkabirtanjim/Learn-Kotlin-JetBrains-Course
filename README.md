@@ -35,6 +35,3 @@ This repository contains my notes and code snippets from the course for future r
 - Object-Oriented Programming  
 
 ---
-
-## 📂 Repo Structure
-
