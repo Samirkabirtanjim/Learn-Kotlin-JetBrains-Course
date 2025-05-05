@@ -1,13 +1,40 @@
-# Learn Kotlin – JetBrains Course
+# 📚 Learn Kotlin - Codecademy
 
-This repository contains my code and progress from the **Learn Kotlin** course by JetBrains. The course is designed for beginners and covers the fundamentals of Kotlin programming through hands-on projects and lessons.
+I completed the **Learn Kotlin** course on Codecademy (Free Version - 100% Progress ✅).  
+Although it didn’t provide a certificate, I covered all the lessons, quizzes, and projects available in the course.  
 
-## 📘 Course Overview
+This repository contains my notes and code snippets from the course for future reference and practice.
 
-- 🎓 **Platform:** JetBrains Academy (Hyperskill)
-- 💻 **Language:** Kotlin
-- 📅 **Status:** In Progress (Currently 30% complete)
-- 📜 **Certificate:** Will be added upon completion
-- 📂 **Total Lessons:** 11  
-- 🛠️ **Projects:** 8  
-- 👶 **Level:** Beginner-friendly
+---
+
+## 📖 Course Syllabus
+
+- **Introduction to Kotlin**
+  - Lesson, Quiz
+- **Data Types & Variables**
+  - Text & Number Variables
+- **Conditional Expressions**
+  - Self-Grading 
+- **Collections**
+  - Lists, Sets, Maps
+  - Project: Animal Sanctuary
+- **Loops**
+  - Loops Basics
+- **Functions**
+  - User-defined Functions, Recursion
+- **Classes**
+  - OOP Basics: Classes & Objects
+
+---
+
+## 🚀 What I Learned:
+- Kotlin Syntax & Structure  
+- Variables, Data Types, and Collections  
+- Conditional Logic and Loops  
+- Functions and Recursion  
+- Object-Oriented Programming  
+
+---
+
+## 📂 Repo Structure
+
