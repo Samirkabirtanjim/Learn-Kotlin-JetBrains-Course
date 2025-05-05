@@ -38,4 +38,5 @@ This repository contains my notes and code snippets from the course for future r
 
 ## 📸 Completion Proof
 
-![Kotlin Course 100% Completed](![Image](https://github.com/user-attachments/assets/9f323f1e-8106-4c41-8c44-4284d35dddd5))
+![Kotlin Course 100% Completed]
+![Image](https://github.com/user-attachments/assets/9f323f1e-8106-4c41-8c44-4284d35dddd5)
